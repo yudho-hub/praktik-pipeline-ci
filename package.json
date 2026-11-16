@@ -1,0 +1,13 @@
+{
+  "name": "praktik-pipeline-ci",
+  "version": "1.0.0",
+  "description": "Proyek sederhana untuk praktik Continuous Integration dengan GitHub Actions",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
